@@ -1,0 +1,13 @@
+.container{
+  display: grid;
+  margin: 2em;
+  
+}
+
+h2{
+  text-align: center;
+}
+.card{
+  border-radius: 50%;
+  text-align: center;  
+}
